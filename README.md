@@ -32,6 +32,8 @@ exact concept of branching.
 
 ## Demonstrate the Primary Role of Branching
 
+I made a change here.
+
 ## Demonstrate Creating a Branch
 
 ## Demonstrate Adding and Committing Changes
